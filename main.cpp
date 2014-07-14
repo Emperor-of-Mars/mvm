@@ -3,7 +3,7 @@
 using namespace std;
 using namespace mvm;
 
-int main()
+int main()		//just a playground, the real thing is in the mvm folder
 {
 	fvec4 v1(1,2,3,4);
 	fmat44 m1, m2, m3;

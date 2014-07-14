@@ -3,6 +3,7 @@
 **	Name:		mvm.h
 **	Project:	mvm - Mars Vector Math
 **	Compile:	include in other project
+**	License:	WTFPL // COPYING.txt
 */
 
 /*
@@ -12,6 +13,8 @@
 **		implement lerp function to vecN
 **		implement slerp function to quart
 **		implement curves and splines
+**		add quaternion rotation function to matrix class
+**		clean up minor naming inconsistencies
 */
 
 #ifndef MVM
