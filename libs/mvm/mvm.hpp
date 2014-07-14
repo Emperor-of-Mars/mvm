@@ -2,7 +2,7 @@
 **	Author:		Martin Schwarz
 **	Name:		mvm.hpp
 **	Project:	mvm - Mars Vector Math
-**	Compile:	include in other project
+**	Compile:	-std=c++11 // include in other project
 **	License:	WTFPL // COPYING.txt
 */
 
