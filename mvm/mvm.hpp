@@ -1,6 +1,6 @@
 /*
 **	Author:		Martin Schwarz
-**	Name:		mvm.h
+**	Name:		mvm.hpp
 **	Project:	mvm - Mars Vector Math
 **	Compile:	include in other project
 **	License:	WTFPL // COPYING.txt
