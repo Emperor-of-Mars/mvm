@@ -8,10 +8,10 @@
 
 /*
 **	TODO:
-**		add math assign functions to matNM and quart
-**		implement vertex rotation to quart
+**		add math assign functions to matNM and quat
+**		implement vertex rotation to quat
 **		implement lerp function to vecN
-**		implement slerp function to quart
+**		implement slerp function to quat
 **		implement curves and splines
 **		add quaternion rotation function to matrix class
 **		clean up minor naming inconsistencies
