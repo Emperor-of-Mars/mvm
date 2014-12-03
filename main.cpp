@@ -1,11 +1,18 @@
+/*
+**	Author:		Martin Schwarz
+**	Name:		main.cpp
+**	Project:	mvm - Mars Vector Math
+**	Compile:	g++ -std=c++11 // include in other project
+**	License:	COPYING.txt
+*/
 
 #include <iostream>
-#include "libs/mvm/mvm.hpp"
+#include "src/mvm.hpp"
 
 using namespace std;
 using namespace mvm;
 
-int main()		//just a playground, the real thing is in the mvm folder
+int main()		//just a playground, the real thing is in the src folder
 {
 	fvec4 v1(1,2,3,4);
 	fmat44 m1, m2, m3;

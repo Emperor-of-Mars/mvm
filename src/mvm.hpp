@@ -3,18 +3,7 @@
 **	Name:		mvm.hpp
 **	Project:	mvm - Mars Vector Math
 **	Compile:	-std=c++11 // include in other project
-**	License:	WTFPL // COPYING.txt
-*/
-
-/*
-**	TODO:
-**		add math assign functions to matNM and quat
-**		implement vertex rotation to quat
-**		implement lerp function to vecN
-**		implement slerp function to quat
-**		implement curves and splines
-**		add quaternion rotation function to matrix class
-**		clean up minor naming inconsistencies
+**	License:	COPYING.txt
 */
 
 #ifndef MVM
