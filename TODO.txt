@@ -1,3 +1,4 @@
 TODO:
 
--stuff
+-cleanup
+-creant .inl file for functions
